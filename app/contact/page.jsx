@@ -5,8 +5,8 @@ export const metadata = {
 const contactCards = [
   {
     title: "Instagram",
-    value: "@thriftbooks",
-    href: "https://instagram.com/thriftbooks",
+    value: "@thrift_.books",
+    href:"https://www.instagram.com/thrift_.books?igshid=MzRlODBiNWFlZA%3D%3D",
     desc: "DM us for fastest response"
   },
   {
