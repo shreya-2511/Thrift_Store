@@ -1,0 +1,15 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Product photo 2">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ede9fe"/>
+      <stop offset="100%" stop-color="#fef9c3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg2)"/>
+  <circle cx="600" cy="520" r="300" fill="#fff"/>
+  <rect x="410" y="390" width="380" height="320" rx="30" fill="#f8fafc" stroke="#cbd5e1" stroke-width="8"/>
+  <rect x="460" y="450" width="280" height="70" rx="12" fill="#e2e8f0"/>
+  <rect x="460" y="550" width="230" height="24" rx="9" fill="#cbd5e1"/>
+  <rect x="460" y="595" width="260" height="24" rx="9" fill="#cbd5e1"/>
+  <text x="430" y="880" fill="#334155" font-family="Arial, sans-serif" font-size="56" font-weight="700">Product View 2</text>
+</svg>
